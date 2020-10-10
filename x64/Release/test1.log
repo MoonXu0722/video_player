@@ -1,0 +1,18 @@
+﻿H:\software\visual_studio2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(test1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  demuxer.cpp
+H:\audio_video\ok\player-master\demuxer.cpp(5,2): warning C4996: 'av_register_all': 被声明为已否决
+  display.cpp
+H:\audio_video\ok\player-master\display.cpp(48,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ffmpeg.cpp
+  format_converter.cpp
+H:\audio_video\ok\player-master\format_converter.cpp(12,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\audio_video\ok\player-master\format_converter.cpp(20,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  player.cpp
+  timer.cpp
+H:\audio_video\ok\player-master\timer.cpp(33,45): warning C4244: “return”: 从“double”转换到“int64_t”，可能丢失数据
+  video_decoder.cpp
+H:\audio_video\ok\player-master\video_decoder.cpp(5,2): warning C4996: 'avcodec_register_all': 被声明为已否决
+  正在生成代码
+  已完成代码的生成
+  test1.vcxproj -> H:\audio_video\video_player\x64\Release\video_player.exe
